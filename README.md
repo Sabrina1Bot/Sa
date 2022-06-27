@@ -26,7 +26,7 @@ $ apt install ffmpeg -y
 $ apt install python3 -y
 $ python3 setup.py install
 $ apt install yarn (untuk termux)
-$ git clone https://github.com/Sabrina1Bot/v1.0
+$ git clone https://github.com/Sabrina1Bot/Sa
 $ cd v1.0
 $ yarn (untuk termux)
 $ npm install
