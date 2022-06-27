@@ -16,7 +16,7 @@
 </div>
 
 
-## NO TERMUX/UBUNTU/SSH USER</div>
+## NO TERMUX/UBUNTU/SSH USER/HEROKU</div>
 
 ```bash
 $ apt update && apt upgrade
